@@ -23,9 +23,14 @@
 
 - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-circle&logo=github)
 
+- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white)
+
+- ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3)
+
+
 **Future Technologies:**
 
-- ![HTML5](https://img.shields.io/badge/-HTML5-black?style=flat-circle&logo=html5&logoColor=white), ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-circle&logo=css3), ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-circle&logo=javascript)
 - ![React](https://img.shields.io/badge/-React-black?style=flat-circle&logo=react)
 
 ---
