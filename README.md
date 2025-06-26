@@ -71,7 +71,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 <!---[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile) --->
 
-📧 Email:(ludwesokani@gmail.com)
+[![Email Badge](https://img.shields.io/badge/Gmail-Contact_Me-green?style=flat-square&logo=gmail&logoColor=FFFFFF&labelColor=3A3B3C&color=62F1CD)](ludwesokani@gmail.com)
 
 ---
 
